@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'The Renaissance Art Movement',
             excerpt: 'Exploring the profound impact of the Renaissance on art history...',
             date: '2024-01-15',
-            image: 'img/posts/renaissance.jpg',
+            image: 'assets/img/posts/renaissance.jpg',
             category: 'arts',
             views: 150
         },
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Modern Art: Breaking the Rules',
             excerpt: 'A deep dive into the rebellious spirit of modern art...',
             date: '2024-02-10',
-            image: 'img/posts/modern_art.jpg',
+            image: 'assets/img/posts/modern_art.jpg',
             category: 'arts',
             views: 200
         },
@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Understanding Abstract Art',
             excerpt: 'Decoding the abstract art movement and its key figures...',
             date: '2024-03-05',
-            image: 'img/posts/abstract_art.jpg',
+            image: 'assets/img/posts/abstract_art.jpg',
             category: 'arts',
             views: 180
         },
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'The Evolution of Sculpture',
             excerpt: 'From classical to contemporary: the journey of sculpture...',
             date: '2024-04-20',
-            image: 'img/posts/sculpture.jpg',
+            image: 'assets/img/posts/sculpture.jpg',
             category: 'arts',
             views: 130
         },
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Minimalist Living: Less is More',
             excerpt: 'Embracing minimalism for a clutter-free life...',
             date: '2024-05-15',
-            image: 'img/posts/minimalism.jpg',
+            image: 'assets/img/posts/minimalism.jpg',
             category: 'lifestyle',
             views: 220
         },
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Healthy Eating on a Budget',
             excerpt: 'Tips and tricks for eating healthy without breaking the bank...',
             date: '2024-06-10',
-            image: 'img/posts/healthy_eating.jpg',
+            image: 'assets/img/posts/healthy_eating.jpg',
             category: 'lifestyle',
             views: 240
         },
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Traveling the World Solo',
             excerpt: 'The ultimate guide to solo travel and self-discovery...',
             date: '2024-07-01',
-            image: 'img/posts/solo_travel.jpg',
+            image: 'assets/img/posts/solo_travel.jpg',
             category: 'lifestyle',
             views: 300
         },
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Yoga for Mental Health',
             excerpt: 'How yoga can improve your mental well-being...',
             date: '2024-08-25',
-            image: 'img/posts/yoga.jpg',
+            image: 'assets/img/posts/yoga.jpg',
             category: 'lifestyle',
             views: 210
         },
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'The Future of Quantum Computing',
             excerpt: 'Exploring the possibilities and challenges of quantum computing...',
             date: '2024-09-10',
-            image: 'img/posts/quantum_computing.jpg',
+            image: 'assets/img/posts/quantum_computing.jpg',
             category: 'technology',
             views: 350
         },
@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'AI in Everyday Life',
             excerpt: 'How artificial intelligence is changing our daily routines...',
             date: '2024-10-05',
-            image: 'img/posts/ai_daily_life.jpg',
+            image: 'assets/img/posts/ai_daily_life.jpg',
             category: 'technology',
             views: 400
         },
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'The Rise of Smart Homes',
             excerpt: 'Smart home technology and its impact on modern living...',
             date: '2024-11-15',
-            image: 'img/posts/smart_home.jpg',
+            image: 'assets/img/posts/smart_home.jpg',
             category: 'technology',
             views: 380
         },
@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Cybersecurity in 2024',
             excerpt: 'The latest trends and threats in the world of cybersecurity...',
             date: '2024-12-20',
-            image: 'img/posts/cybersecurity_trends.jpg',
+            image: 'assets/img/posts/cybersecurity_trends.jpg',
             category: 'technology',
             views: 420
         },
@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Investing in the Stock Market',
             excerpt: 'A beginner\'s guide to stock market investment...',
             date: '2024-01-20',
-            image: 'img/posts/stock_market.jpg',
+            image: 'assets/img/posts/stock_market.jpg',
             category: 'finance',
             views: 310
         },
@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Personal Finance Tips for 2024',
             excerpt: 'How to manage your finances effectively this year...',
             date: '2024-02-25',
-            image: 'img/posts/personal_finance.jpg',
+            image: 'assets/img/posts/personal_finance.jpg',
             category: 'finance',
             views: 330
         },
@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Cryptocurrency: The New Frontier',
             excerpt: 'Understanding the world of cryptocurrency and blockchain...',
             date: '2024-03-10',
-            image: 'img/posts/cryptocurrency.jpg',
+            image: 'assets/img/posts/cryptocurrency.jpg',
             category: 'finance',
             views: 290
         },
@@ -144,7 +144,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: 'Real Estate Investment Strategies',
             excerpt: 'Tips and strategies for successful real estate investing...',
             date: '2024-04-05',
-            image: 'img/posts/real_estate.jpg',
+            image: 'assets/img/posts/real_estate.jpg',
             category: 'finance',
             views: 270
         }
