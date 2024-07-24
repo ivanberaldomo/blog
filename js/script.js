@@ -189,10 +189,10 @@ document.addEventListener('DOMContentLoaded', function () {
         const postContent = document.getElementById('post-content');
         postContent.innerHTML = `
             <h1>${post.title}</h1>
-            <p>${post.date} | ${post.category} | ${post.views} views</p>
-            <img src="${post.image}" alt="${post.title}">
-            <p>${post.excerpt}</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="metadata">${post.date} | ${post.category} | ${post.views} views</p>
+            <img src="${post.image}" alt="${post.title}" class="img">
+            <p class="excerpt">${post.excerpt}</p>
+            <p class="post-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         `;
     }
 });

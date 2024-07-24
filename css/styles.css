@@ -3,7 +3,7 @@
     text-align: center;
 }
 
-/* Posts */
+/* Posts at index.html */
 
 .container-posts {
     display: flex;
@@ -44,7 +44,9 @@
     color: #888;
 }
 
-.posts-content {
+/* Posts at post.html */
+
+.post-content {
     padding: 20px;
     background-color: #ccc;
     max-width: 1200px;
@@ -53,17 +55,35 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.posts-content h1{
-
+.post-content .img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
 
-.posts-content p {
-
+.post-content h1{
+    text-align: center;
+    font-size: 3rem;
 }
 
-.post-content img {
-    
+.post-content p {
+    text-align: center;
 }
+
+.post-content p.metadata {
+    font-size: 0.9rem;
+    color: #333;
+}
+
+.post-content p.excerpt {
+    font-size: 0.75rem;
+    color:#555;
+}
+
+.post-content p.post-text {
+    font-size: 1.1rem;
+}
+
 
 /* Navbar */
 
